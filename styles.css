@@ -1271,7 +1271,7 @@ ul {
 }
 
 .footer__col a:hover {
-    color: var(--accent);
+    color: var(--white);
     padding-left: 4px;
 }
 
